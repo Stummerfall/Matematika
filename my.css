@@ -13,7 +13,7 @@ body {
 	width:90%;
 	height:50px;
 	position:fixed;
-	font-family: URW Chancery L, cursive;
+	font-family: 'Monotype Corsiva','Apple Chancery','ITC Zapf Chancery','URW Chancery L',cursive;
 	font-size: 200%;
 	background: radial-gradient(40% 50%, #FAECD5, #A7CECC);
 			}

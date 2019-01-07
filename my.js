@@ -5,7 +5,7 @@
 };*/
 
 function proiz(){
-	window.open("proizvod.html","_self")
+	window.open("proiz/proizvod.html","_self")
 }
 function integr(){
 	window.open("proizvod.html","_self")

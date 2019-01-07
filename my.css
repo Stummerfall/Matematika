@@ -6,6 +6,10 @@ body {
 #div1{
   display: none;
 }
+@font-face {
+	font-family: chancery_script_medium_ssi_medium_italic;
+	src: url(chancery_script_medium_ssi_medium_italic.ttf);
+}
 .but1{
 	border-radius: 10px;
 	margin-left:4%;
@@ -13,7 +17,7 @@ body {
 	width:90%;
 	height:50px;
 	position:fixed;
-	font-family: 'Monotype Corsiva','Apple Chancery','ITC Zapf Chancery','URW Chancery L',cursive;
-	font-size: 200%;
-	background: radial-gradient(40% 50%, #FAECD5, #A7CECC);
+	font-family: chancery_script_medium_ssi_medium_italic,cursive;
+	font-size: 150%;
+	background: radial-gradient(40% 50%, #FAECD5, #A7CECC);,
 			}

@@ -11,8 +11,8 @@ function integr(){
 	window.open("int/integral.html","_self")
 }
 function matr(){
-	window.open("proizvod.html","_self")
+	window.open("matr/matr.html","_self")
 }
 function vect(){
-	window.open("proizvod.html","_self")
+	window.open("vect/vect.html","_self")
 }

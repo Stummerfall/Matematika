@@ -16,6 +16,3 @@ function svoistvaOpr(){
 function svoistvaNeOpr(){
 	window.open("svneopr.html","_self")
 }
-function smisl(){
-	window.open("smisl.html","_self")
-}

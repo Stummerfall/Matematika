@@ -4,8 +4,10 @@ body {
 }
 
 @font-face {
-	font-family: chancery_script_medium_ssi_medium_italic;
-	src: url(chancery_script_medium_ssi_medium_italic.ttf);
+	font-family: 'chancery_script_medium_ssi_medium_italic-webfont';
+	src: url('chancery_script_medium_ssi_medium_italic-webfont.ttf') format('truetype');
+	src: url('chancery_script_medium_ssi_medium_italic-webfont.woff') format('woff');
+	src: url('chancery_script_medium_ssi_medium_italic-webfont.woff2') format('woff2');
 }
 .but1{border-radius: 20px;
 	width:90%;
@@ -19,7 +21,7 @@ body {
 	padding-bottom: 40px;
 }
 h1 {border-radius: 20px;
-	font-family: chancery_script_medium_ssi_medium_italic,cursive;
+	font-family: chancery_script_medium_ssi_medium_italic-webfont,cursive;
 	background: radial-gradient(40% 50%, #FAECD5, #A7CECC);
 	text-align: center;
 	display: inline-block;

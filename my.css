@@ -7,18 +7,17 @@ body {
 	font-family: chancery_script_medium_ssi_medium_italic;
 	src: url(chancery_script_medium_ssi_medium_italic.ttf);
 }
-.but1{
-	border-radius: 10px;
-	margin-left:4%;
-	margin-top:2%;
+.but1{border-radius: 20px;
 	width:90%;
-	height:50px;
-	position:fixed;
+	height:50px; 
+	background: radial-gradient(40% 50%, #FAECD5, #A7CECC);
 	font-family: chancery_script_medium_ssi_medium_italic,cursive;
 	font-size: 150%;
-	background: radial-gradient(40% 50%, #FAECD5, #A7CECC);
-	border: 0;	
-	outline:none;}
+	 border: 0;
+	outline:none;
+	padding:10px;
+	padding-bottom: 40px;
+}
 h1 {border-radius: 20px;
 	font-family: chancery_script_medium_ssi_medium_italic,cursive;
 	background: radial-gradient(40% 50%, #FAECD5, #A7CECC);
@@ -46,7 +45,8 @@ img{
 	width:80%;
 	
 }
-.but2{border-radius: 10px;
+.but2{border-radius: 20px;
+	height:50px; 
 	background: radial-gradient(40% 50%, #FAECD5, #A7CECC);
 	font-family: chancery_script_medium_ssi_medium_italic,cursive;
 	font-size: 100%;

@@ -8,7 +8,7 @@ function proiz(){
 	window.open("proiz/proizvod.html","_self")
 }
 function integr(){
-	window.open("proizvod.html","_self")
+	window.open("int/integral.html","_self")
 }
 function matr(){
 	window.open("proizvod.html","_self")

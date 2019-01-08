@@ -3,9 +3,6 @@ body {
     background-image: url(fon1.jpg);	
 }
 
-#div1{
-  display: none;
-}
 @font-face {
 	font-family: chancery_script_medium_ssi_medium_italic;
 	src: url(chancery_script_medium_ssi_medium_italic.ttf);
@@ -13,11 +10,46 @@ body {
 .but1{
 	border-radius: 10px;
 	margin-left:4%;
-	margin-top:1%;
+	margin-top:2%;
 	width:90%;
 	height:50px;
 	position:fixed;
 	font-family: chancery_script_medium_ssi_medium_italic,cursive;
 	font-size: 150%;
-	background: radial-gradient(40% 50%, #FAECD5, #A7CECC);,
-			}
+	background: radial-gradient(40% 50%, #FAECD5, #A7CECC);
+	border: 0;	
+	outline:none;}
+h1 {border-radius: 20px;
+	font-family: chancery_script_medium_ssi_medium_italic,cursive;
+	background: radial-gradient(40% 50%, #FAECD5, #A7CECC);
+	text-align: center;
+	display: inline-block;
+	box-sizing: border-box;
+    padding-left: 20px;
+	padding-right: 20px;
+	padding-top:5px;
+	padding-bottom:5px;
+}
+div {text-align:center;}
+a{	display: inline-block;
+	box-sizing: border-box;
+	font-family: chancery_script_medium_ssi_medium_italic,cursive;
+	background: radial-gradient(40% 50%, #FAECD5, #A7CECC);
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top:5px;
+	padding-bottom:5px;
+	border-radius: 20px;
+	font-size: 100%;
+}
+img{
+	width:80%;
+	
+}
+.but2{border-radius: 10px;
+	background: radial-gradient(40% 50%, #FAECD5, #A7CECC);
+	font-family: chancery_script_medium_ssi_medium_italic,cursive;
+	font-size: 100%;
+	 border: 0;
+	outline:none;
+}

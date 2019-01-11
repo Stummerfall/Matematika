@@ -1,9 +1,7 @@
-/*function viewDiv(){
-	if (document.getElementById("div1").style.display == "none")
-	{document.getElementById("div1").style.display = "block";}
-	else document.getElementById("div1").style.display = "none";
-};*/
 
+function calcs(){
+	window.open("calc/calcs.html","_self")
+}
 function proiz(){
 	window.open("proiz/proizvod.html","_self")
 }
@@ -15,4 +13,7 @@ function matr(){
 }
 function vect(){
 	window.open("vect/vect.html","_self")
+}
+function trig(){
+	window.open("trig/trig.html","_self")
 }

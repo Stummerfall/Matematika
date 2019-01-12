@@ -11,11 +11,9 @@ body {
 	 border: 0;
 	outline:none;
 	padding:10px;
-	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"   
-	/*font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"*/
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"  
 }
 h1 {border-radius: 20px;
-	font-family: "coming-soon";
 	background: radial-gradient(40% 50%, #FAECD5, #A7CECC);
 	text-align: center;
 	display: inline-block;

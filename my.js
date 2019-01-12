@@ -17,3 +17,9 @@ function vect(){
 function trig(){
 	window.open("trig/trig.html","_self")
 }
+function log(){
+	window.open("log/log.html","_self")
+}
+function pred(){
+	window.open("pred/pred.html","_self")
+}
